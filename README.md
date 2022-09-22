@@ -8,7 +8,7 @@ An analysis was performed on credit risk using machine learning in jupyter noteb
 
 ### Naive Random Oversampling
 
-![Naive.PNG]()
+![naive.PNG](https://github.com/mcwatts88/Credit_Risk_Analysis/blob/main/Resources/naive.PNG)
 
 * Balanced Accuracy Score: 65%
 * Precision Score:
@@ -21,7 +21,7 @@ An analysis was performed on credit risk using machine learning in jupyter noteb
 
 ### SMOTE
 
-![SMOTE.PNG]()
+![SMOTE.PNG](https://github.com/mcwatts88/Credit_Risk_Analysis/blob/main/Resources/SMOTE.PNG)
 
 * Balanced Accuracy Score: 62%
 * Precision Score:
@@ -34,7 +34,7 @@ An analysis was performed on credit risk using machine learning in jupyter noteb
 
 ### Cluster Centroids
 
-![cc.PNG]()
+![CC.PNG](https://github.com/mcwatts88/Credit_Risk_Analysis/blob/main/Resources/CC.PNG)
 
 * Balanced Accuracy Score: 50%
 * Precision Score:
@@ -47,7 +47,7 @@ An analysis was performed on credit risk using machine learning in jupyter noteb
 
 ### SMOTEENN
 
-![SMOTEENN.PNG]()
+![SMOTEENN.PNG](https://github.com/mcwatts88/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.PNG)
 
 * Balanced Accuracy Score: 62%
 * Precision Score:
@@ -60,7 +60,7 @@ An analysis was performed on credit risk using machine learning in jupyter noteb
 
 ### Balanced Random Forest Classifier
 
-![brf.PNG]()
+![brf.PNG](https://github.com/mcwatts88/Credit_Risk_Analysis/blob/main/Resources/brf.PNG)
 
 * Balanced Accuracy Score: 78%
 * Precision Score:
@@ -73,7 +73,7 @@ An analysis was performed on credit risk using machine learning in jupyter noteb
 
 ### Easy Ensemble Classifier
 
-![ee.PNG]()
+![eec.PNG](https://github.com/mcwatts88/Credit_Risk_Analysis/blob/main/Resources/eec.PNG)
 
 * Balanced Accuracy Score: 93%
 * Precision Score:
